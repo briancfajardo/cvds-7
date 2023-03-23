@@ -1,4 +1,4 @@
-package com.cvds.camilo.springboot.jpamediumdemo;
+package cvds.camilo.springboot.jpamediumdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
